@@ -36,6 +36,8 @@
   <li><a href="#install">Install</a></li>
   <li><a href="#cms-permission">CMS Permission</a></li>
   <li><a href="#app">App</a></li>
+  <li><a href="#config">Config</a></li>
+  <li><a href="#images">Images</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -59,6 +61,18 @@
   <ul>
     <li><a href="/src/app/index.ts#L1">appPermissions</a></li>
     <li><a href="/src/app/index.ts#L9">appPermissionDetail</a></li>
+  </ul>
+
+## Config
+
+  <ul>
+    <li><a href="/src/config.ts#L1">Config file</a></li>
+  </ul>
+
+## Images
+
+  <ul>
+    <li><a href="/src/images/index.ts#L1">Images</a></li>
   </ul>
 
 [contributors-shield]: https://img.shields.io/github/contributors/publish-cms/const.svg?style=for-the-badge
