@@ -31,14 +31,12 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#install">Install</a></li>
-    <li><a href="#cms-permission">CMS Permission</a></li>
-    <li><a href="#app">App</a></li>
-  </ol>
-</details>
+<summary>Table of Contents</summary>
+<ol>
+  <li><a href="#install">Install</a></li>
+  <li><a href="#cms-permission">CMS Permission</a></li>
+  <li><a href="#app">App</a></li>
+</ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -47,7 +45,7 @@
 
 - npm
   ```sh
-  npm install @publish-cms/type
+  npm install @publish-cms/const
   ```
 
 ## CMS Permission
