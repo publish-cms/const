@@ -38,6 +38,8 @@
   <li><a href="#app">App</a></li>
   <li><a href="#config">Config</a></li>
   <li><a href="#images">Images</a></li>
+  <li><a href="#banner">Banner</a></li>
+  <li><a href="#linkType">Link type</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -73,6 +75,18 @@
 
   <ul>
     <li><a href="/src/images/index.ts#L1">Images</a></li>
+  </ul>
+
+## Banner
+
+  <ul>
+    <li><a href="/src/banner/index.ts#L1">Banner</a></li>
+  </ul>
+
+## Link Types
+
+  <ul>
+    <li><a href="/src/linkType/index.ts#L1">Link Types</a></li>
   </ul>
 
 [contributors-shield]: https://img.shields.io/github/contributors/publish-cms/const.svg?style=for-the-badge
