@@ -4,7 +4,8 @@
 
 ### Added or Changed
 
-- added banner, link types const 
+- added config, images  to index
+- added '@publish-cms/type' package
 
 ### Removed
 ## v1.0.2
