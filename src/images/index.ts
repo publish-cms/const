@@ -1,4 +1,4 @@
-import { staticURL , cdnURLImg} from "config";
+import { staticURL, cdnURLImg } from '../config';
 
 export const imgAvatarDefault = `${cdnURLImg}/default-avatar.png`;
 export const imgManage = `${cdnURLImg}/manage.svg`;
