@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.6
+
+### Added or Changed
+
+- add new permission
+
+### Removed
+
 ## v1.0.5
 
 ### Added or Changed

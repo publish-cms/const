@@ -1,6 +1,9 @@
 export const permissions = {
   global: {
+    OVERVIEW: 'OVERVIEW',
     UPDATE_VERSION: 'UPDATE_VERSION',
+    GENERAL_VIEW: 'GENERAL_VIEW',
+    GENERAL_UPDATE: 'GENERAL_UPDATE',
   },
   post: {
     POST_VIEW: 'POST_VIEW',
@@ -60,6 +63,7 @@ export const permissions = {
     BANNER_DELETE: 'BANNER_DELETE',
   },
   search: {
+    SEARCH_VIEW: 'SEARCH_VIEW',
     SEARCH_MANAGE: 'SEARCH_MANAGE',
   },
   google: {
@@ -73,5 +77,24 @@ export const permissions = {
   group: {
     CREATE_ROLE: 'CREATE_ROLE',
     USER_MANAGE: 'USER_MANAGE',
+  },
+  design: {
+    DESIGN_VIEW: 'DESIGN_VIEW',
+  },
+  connection: {
+    CONNECTION_VIEW: 'CONNECTION_VIEW',
+  },
+  custom: {
+    CUSTOM_VIEW: 'CUSTOM_VIEW',
+  },
+  shortlink: {
+    SHORTLINK_VIEW: 'SHORTLINK_VIEW',
+  },
+  phrase: {
+    PHRASE_VIEW: 'PHRASE_VIEW',
+  },
+  theme: {
+    THEME_VIEW: 'THEME_VIEW',
+    THEME_INSTALL: 'THEME_INSTALL',
   },
 };
